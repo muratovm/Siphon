@@ -8,3 +8,5 @@ matplotlib
 scikit-learn
 import_ipynb
 tensorboardX
+ipywidgets
+jupyterlab
