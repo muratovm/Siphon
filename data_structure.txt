@@ -1,0 +1,11 @@
+data
+|---training
+|	|---images
+|	|	|---train-images-idx3-ubyte.gz
+|	|---labels
+|		|---train-labels-idx1-ubyte.gz
+|---testing
+	|---images
+	|	|---t10k-images-idx3-ubyte.gz
+	|---labels
+		|---t10k-labels-idx1-ubyte.gz
