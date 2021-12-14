@@ -8,10 +8,10 @@
             "name": "Python: Django",
             "type": "python",
             "request": "launch",
-            "program": "${workspaceFolder}/manage.py",
+            "program": "${workspaceFolder}/Siphon Web/manage.py",
             "args": [
                 "runserver",
-                "9001"
+                "9004"
             ],
             "django": true
         }
